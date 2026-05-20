@@ -11,7 +11,8 @@ export const products: Product[] = [
         name: 'OK女仆1代、2代',
         description: '新手友好手持杯',
         images: [
-            '/images/img1.jpg'
+            '/images/女仆1代.jpg',
+            '/images/女仆2代.jpg'
         ]
     },
     {
@@ -19,7 +20,7 @@ export const products: Product[] = [
         name: 'OK雷系彼女',
         description: '双穴短道大肉球高刺激小臀',
         images: [
-            '/images/img2.jpg'
+            '/images/雷系彼女.jpg'
         ]
     },
     {
@@ -27,7 +28,7 @@ export const products: Product[] = [
         name: 'OK翠青旋风',
         description: '杯界卷笔刀，爽日风扇叶',
         images: [
-            '/images/img3.jpg'
+            '/images/翠青旋风.jpg'
         ]
     },
     {
@@ -35,7 +36,7 @@ export const products: Product[] = [
         name: 'RQS梦幻精灵',
         description: '多弯道大球腔刺激手持杯',
         images: [
-            '/images/img4.jpg'
+            '/images/梦幻精灵.jpg'
         ]
     },
     {
@@ -43,7 +44,7 @@ export const products: Product[] = [
         name: 'OK修女侍奉',
         description: '双穴双插进阶手持杯',
         images: [
-            '/images/img5.jpg'
+            '/images/修女侍奉.jpg'
         ]
     },
     {
@@ -51,7 +52,7 @@ export const products: Product[] = [
         name: 'RQS约束三代',
         description: '高弹力大雷慢玩手持杯',
         images: [
-            '/images/img6.jpg'
+            '/images/RQS约束三代.jpg'
         ]
     },
     {
@@ -59,7 +60,7 @@ export const products: Product[] = [
         name: 'RQS白之圣女',
         description: '触感扎实的双道进阶手持杯',
         images: [
-            '/images/img6.jpg'
+            '/images/白之圣女.jpg'
         ]
     },
     {
@@ -67,7 +68,7 @@ export const products: Product[] = [
         name: 'OK夏日回忆',
         description: '巨大肉粒软硬双款手持杯',
         images: [
-            '/images/img6.jpg'
+            '/images/夏日回忆.jpg'
         ]
     },
     {
@@ -75,7 +76,7 @@ export const products: Product[] = [
         name: 'OK御琴千金',
         description: '琴键触感不错的进阶手持杯',
         images: [
-            '/images/img6.jpg'
+            '/images/御琴千金.jpg'
         ]
     },
     {
@@ -83,15 +84,15 @@ export const products: Product[] = [
         name: 'RQS星野佐奈',
         description: '8.5KG丰满大翘臀',
         images: [
-            '/images/img6.jpg'
+            '/images/RQS星野佐奈.jpg'
         ]
     },
     {
         id: '11',
-        name: 'OK原型钛体',
+        name: 'OK古桥斩月',
         description: '刚柔并济的美丽半身',
         images: [
-            '/images/img6.jpg'
+            '/images/古桥斩月.jpg'
         ]
     }
 ];
