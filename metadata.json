@@ -1,0 +1,6 @@
+{
+  "name": "产品实拍",
+  "description": "极简响应式的高清产品实拍图库网站",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
